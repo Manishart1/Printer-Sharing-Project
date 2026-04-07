@@ -41,7 +41,7 @@ RpcAuthnLevelprivacyEnabled
 - Firewall and registry adjustments ensured smooth communication.
 - Restarting spooler stabilized printing operations.
 - Centralized management reduced complexity for end users.
- 
+![connect](https://github.com/user-attachments/assets/79eacf0d-4326-4451-b39e-492a0a6cb492)
 <img width="1440" height="851" alt="image" src="https://github.com/user-attachments/assets/ea1476bc-e1f0-4b71-9603-af86fdfc9bb7" />
 <img width="1093" height="401" alt="image" src="https://github.com/user-attachments/assets/1a469feb-5e99-4968-bdbc-f926c94f73dd" />
 
